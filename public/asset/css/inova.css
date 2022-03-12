@@ -1,0 +1,21 @@
+.sidebar {
+    background-color: #6FFF33;
+    border-radius: 12px;
+}
+
+.konten {
+    background-color: #93ff66;
+    border-radius: 12px;
+}
+
+.navbar {
+    background-color: #93ff66;
+}
+
+.konten {
+    background-color: #a2ff33;
+}
+.sa {
+    color: darkcyan;
+    text-decoration: none;
+}
